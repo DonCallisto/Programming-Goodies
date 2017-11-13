@@ -7,6 +7,10 @@
 - [Json validation](https://github.com/thephpleague/json-guard)
 - [Closure binding instead of "use" variables](https://markbakeruk.net/2017/03/12/closure-binding-as-an-alternative-to-use-variables/?mkt_tok=eyJpIjoiTm1VM01HUXlPR1kwWWpaayIsInQiOiJueUZaRGFpbHRzY0xaQ3dOVUZQU3NOMmVFQjZGbVlndmdSb0pITHo4NHRzNGlSb0xpTU9ZcU84Nm55a3BzUVlEaG9BQ0Q3OHlNZXNPQis4bmFEb3hrNGVsTDNodzlBWDNRN0JOTDZzeGpFZ2RFOFFwUFJyN2lXVG8xZk42MnNETiJ9)
 
+## Composer
+
+- [Stability flags](https://igor.io/2013/02/07/composer-stability-flags.html)
+
 ## Testing
 
 ### TDD
