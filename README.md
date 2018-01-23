@@ -33,3 +33,7 @@
 
 - [Why your test suite sucks - PHP UK 2015](https://www.youtube.com/watch?v=DlgadZLOK-M)
 - [Behat Best Practices](https://www.slideshare.net/CiaranMcNulty/behat-best-practices)
+
+### Performance
+
+- [Siege explained - Not strictly related to PHP but good for webapps](https://www.sitepoint.com/web-app-performance-testing-siege-plan-test-learn/?mkt_tok=eyJpIjoiTm1VM01HUXlPR1kwWWpaayIsInQiOiJueUZaRGFpbHRzY0xaQ3dOVUZQU3NOMmVFQjZGbVlndmdSb0pITHo4NHRzNGlSb0xpTU9ZcU84Nm55a3BzUVlEaG9BQ0Q3OHlNZXNPQis4bmFEb3hrM25kNjVQdDhaXC9hTnhIY0dHdlBwWHJBbWFMc3JOQTV5WWdLTU91Wm82cEQifQ%3D%3D)
