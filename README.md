@@ -13,6 +13,7 @@
 - [Stability flags](https://igor.io/2013/02/07/composer-stability-flags.html)
 - [Building maintainable PHP apps using composer](https://blog.bugsnag.com/best-practices-using-composer/?utm_source=laravelnews&utm_medium=cpc&utm_content=packagist-php&utm_campaign=laravel&utm_term=201706)
 - [Packagist and the PHP ecosystem](https://laravel-news.com/packagist-and-the-php-ecosystem?mkt_tok=eyJpIjoiTm1VM01HUXlPR1kwWWpaayIsInQiOiJueUZaRGFpbHRzY0xaQ3dOVUZQU3NOMmVFQjZGbVlndmdSb0pITHo4NHRzNGlSb0xpTU9ZcU84Nm55a3BzUVlEaG9BQ0Q3OHlNZXNPQis4bmFEb3hrM25kNjVQdDhaXC9hTnhIY0dHdlBwWHJBbWFMc3JOQTV5WWdLTU91Wm82cEQifQ%3D%3D)
+- [Optional dependencies](https://matthiasnoback.nl/2014/04/theres-no-such-thing-as-an-optional-dependency/)
 
 ## Security
 
