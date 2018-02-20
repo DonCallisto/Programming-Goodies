@@ -43,4 +43,4 @@
 
 ### Mocking
 
-- [Mocking at architectural boundaries] https://matthiasnoback.nl/2018/02/mocking-at-architectural-boundaries-persistence-and-time/
+- [Mocking at architectural boundaries](https://matthiasnoback.nl/2018/02/mocking-at-architectural-boundaries-persistence-and-time/)
