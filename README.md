@@ -9,6 +9,7 @@
 - [Efficient data structures in PHP 7](https://medium.com/@rtheunissen/efficient-data-structures-for-php-7-9dda7af674cd)
 - [Test PHP source code](https://www.sammyk.me/compiling-php-from-source-writing-tests-for-php-source)
 - [DRY misunderstood - Not strictly related to PHP but a good read](http://web-techno.net/dry-principle-explained/)
+- [Fluent interfaces are evil](https://ocramius.github.io/blog/fluent-interfaces-are-evil/)
 
 ## Composer
 
