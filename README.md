@@ -10,6 +10,7 @@
 - [Test PHP source code](https://www.sammyk.me/compiling-php-from-source-writing-tests-for-php-source)
 - [DRY misunderstood - Not strictly related to PHP but a good read](http://web-techno.net/dry-principle-explained/)
 - [Fluent interfaces are evil](https://ocramius.github.io/blog/fluent-interfaces-are-evil/)
+- [CORS explained - Not strictly related to PHP but a good read](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 
 ## Composer
 
@@ -17,7 +18,6 @@
 - [Building maintainable PHP apps using composer](https://blog.bugsnag.com/best-practices-using-composer/?utm_source=laravelnews&utm_medium=cpc&utm_content=packagist-php&utm_campaign=laravel&utm_term=201706)
 - [Packagist and the PHP ecosystem](https://laravel-news.com/packagist-and-the-php-ecosystem?mkt_tok=eyJpIjoiTm1VM01HUXlPR1kwWWpaayIsInQiOiJueUZaRGFpbHRzY0xaQ3dOVUZQU3NOMmVFQjZGbVlndmdSb0pITHo4NHRzNGlSb0xpTU9ZcU84Nm55a3BzUVlEaG9BQ0Q3OHlNZXNPQis4bmFEb3hrM25kNjVQdDhaXC9hTnhIY0dHdlBwWHJBbWFMc3JOQTV5WWdLTU91Wm82cEQifQ%3D%3D)
 - [Optional dependencies](https://matthiasnoback.nl/2014/04/theres-no-such-thing-as-an-optional-dependency/)
-- [CORS explained - Not strictly related to PHP but a good read](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 
 ## Security
 
