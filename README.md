@@ -11,6 +11,7 @@
 - [DRY misunderstood - Not strictly related to PHP but a good read](http://web-techno.net/dry-principle-explained/)
 - [Fluent interfaces are evil](https://ocramius.github.io/blog/fluent-interfaces-are-evil/)
 - [CORS explained - Not strictly related to PHP but a good read](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+- [PHP 7: Type-safe array of objects](https://www.schmengler-se.de/en/2017/04/php-7-type-safe-arrays-of-objects/)
 
 ## Composer
 
