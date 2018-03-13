@@ -12,6 +12,7 @@
 - [Fluent interfaces are evil](https://ocramius.github.io/blog/fluent-interfaces-are-evil/)
 - [CORS explained - Not strictly related to PHP but a good read](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 - [PHP 7: Type-safe array of objects](https://www.schmengler-se.de/en/2017/04/php-7-type-safe-arrays-of-objects/)
+- [Sensible interfaces](http://verraes.net/2013/09/sensible-interfaces/)
 
 ## Composer
 
@@ -23,7 +24,6 @@
 ## Security
 
 - [Common checklist - Not strictly related to PHP but good for webapps](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56?mkt_tok=eyJpIjoiTm1VM01HUXlPR1kwWWpaayIsInQiOiJueUZaRGFpbHRzY0xaQ3dOVUZQU3NOMmVFQjZGbVlndmdSb0pITHo4NHRzNGlSb0xpTU9ZcU84Nm55a3BzUVlEaG9BQ0Q3OHlNZXNPQis4bmFEb3hrM25kNjVQdDhaXC9hTnhIY0dHdlBwWHJBbWFMc3JOQTV5WWdLTU91Wm82cEQifQ%3D%3D)
-- [Sensible interfaces](http://verraes.net/2013/09/sensible-interfaces/)
 
 ## Symfony
 
