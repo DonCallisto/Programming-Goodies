@@ -23,6 +23,7 @@
 ## Security
 
 - [Common checklist - Not strictly related to PHP but good for webapps](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56?mkt_tok=eyJpIjoiTm1VM01HUXlPR1kwWWpaayIsInQiOiJueUZaRGFpbHRzY0xaQ3dOVUZQU3NOMmVFQjZGbVlndmdSb0pITHo4NHRzNGlSb0xpTU9ZcU84Nm55a3BzUVlEaG9BQ0Q3OHlNZXNPQis4bmFEb3hrM25kNjVQdDhaXC9hTnhIY0dHdlBwWHJBbWFMc3JOQTV5WWdLTU91Wm82cEQifQ%3D%3D)
+- [Sensible interfaces](http://verraes.net/2013/09/sensible-interfaces/)
 
 ## Symfony
 
