@@ -14,6 +14,7 @@
 - [PHP 7: Type-safe array of objects](https://www.schmengler-se.de/en/2017/04/php-7-type-safe-arrays-of-objects/)
 - [Sensible interfaces](http://verraes.net/2013/09/sensible-interfaces/)
 - [Modeling quantities](https://matthiasnoback.nl/2018/03/modelling-quanities-an-exercise-in-designing-value-objects/) - [Value Objects like a pro](https://hackernoon.com/value-objects-like-a-pro-f1bfc1548c72)
+- [Real time notifications](https://www.sitepoint.com/add-real-time-notifications-laravel-pusher/)
 
 ## Composer
 
