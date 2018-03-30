@@ -30,6 +30,7 @@
 ## DDD
 
 - [A wave of command buses](https://matthiasnoback.nl/2015/01/a-wave-of-command-buses/)
+- [Model & Service Layers](https://www.youtube.com/watch?v=ajhqScWECMo)
 
 ## Security
 
