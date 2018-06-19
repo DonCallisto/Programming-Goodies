@@ -5,6 +5,24 @@
 - [5 golden rules](https://www.toptal.com/api-developers/5-golden-rules-for-designing-a-great-web-api)
 - [JWT with API Platform](https://emirkarsiyakali.com/implementing-jwt-authentication-to-your-api-platform-application-885f014d3358)
 
+## Composer
+
+- [Stability flags](https://igor.io/2013/02/07/composer-stability-flags.html)
+- [Building maintainable PHP apps using composer](https://blog.bugsnag.com/best-practices-using-composer/?utm_source=laravelnews&utm_medium=cpc&utm_content=packagist-php&utm_campaign=laravel&utm_term=201706)
+- [Packagist and the PHP ecosystem](https://laravel-news.com/packagist-and-the-php-ecosystem?mkt_tok=eyJpIjoiTm1VM01HUXlPR1kwWWpaayIsInQiOiJueUZaRGFpbHRzY0xaQ3dOVUZQU3NOMmVFQjZGbVlndmdSb0pITHo4NHRzNGlSb0xpTU9ZcU84Nm55a3BzUVlEaG9BQ0Q3OHlNZXNPQis4bmFEb3hrM25kNjVQdDhaXC9hTnhIY0dHdlBwWHJBbWFMc3JOQTV5WWdLTU91Wm82cEQifQ%3D%3D)
+- [Optional dependencies](https://matthiasnoback.nl/2014/04/theres-no-such-thing-as-an-optional-dependency/)
+- [Converting composer dependency to git for editing](https://akrabat.com/converting-a-composer-dependency-to-git-for-editing)
+- [Request handlers vs Controllers](https://jenssegers.com/85/goodbye-controllers-hello-request-handlers)
+
+## Doctrine
+
+- [Doctrine best practices slides](https://ocramius.github.io/doctrine-best-practices) and [video](https://vimeo.com/134178140)
+
+## DDD
+
+- [A wave of command buses](https://matthiasnoback.nl/2015/01/a-wave-of-command-buses/)
+- [Model & Service Layers](https://www.youtube.com/watch?v=ajhqScWECMo)
+
 ## General
 
 - [Strictly typed arrays in PHP >= 7.1](https://www.sitepoint.com/creating-strictly-typed-arrays-collections-php/?mkt_tok=eyJpIjoiTm1VM01HUXlPR1kwWWpaayIsInQiOiJueUZaRGFpbHRzY0xaQ3dOVUZQU3NOMmVFQjZGbVlndmdSb0pITHo4NHRzNGlSb0xpTU9ZcU84Nm55a3BzUVlEaG9BQ0Q3OHlNZXNPQis4bmFEb3hrNGVsTDNodzlBWDNRN0JOTDZzeGpFZ2RFOFFwUFJyN2lXVG8xZk42MnNETiJ9)
@@ -24,23 +42,9 @@
 - [Keep and eye on the churn](https://matthiasnoback.nl/2018/01/churn-legacy-code/) - [Breaking up the Behemoth](https://www.sandimetz.com/blog/2017/9/13/breaking-up-the-behemoth)
 - [It's all OPCache fault?](https://engineering.facile.it/blog/eng/realpath-cache-is-it-all-php-opcache-s-fault)
 
-## Composer
+## SQL
 
-- [Stability flags](https://igor.io/2013/02/07/composer-stability-flags.html)
-- [Building maintainable PHP apps using composer](https://blog.bugsnag.com/best-practices-using-composer/?utm_source=laravelnews&utm_medium=cpc&utm_content=packagist-php&utm_campaign=laravel&utm_term=201706)
-- [Packagist and the PHP ecosystem](https://laravel-news.com/packagist-and-the-php-ecosystem?mkt_tok=eyJpIjoiTm1VM01HUXlPR1kwWWpaayIsInQiOiJueUZaRGFpbHRzY0xaQ3dOVUZQU3NOMmVFQjZGbVlndmdSb0pITHo4NHRzNGlSb0xpTU9ZcU84Nm55a3BzUVlEaG9BQ0Q3OHlNZXNPQis4bmFEb3hrM25kNjVQdDhaXC9hTnhIY0dHdlBwWHJBbWFMc3JOQTV5WWdLTU91Wm82cEQifQ%3D%3D)
-- [Optional dependencies](https://matthiasnoback.nl/2014/04/theres-no-such-thing-as-an-optional-dependency/)
-- [Converting composer dependency to git for editing](https://akrabat.com/converting-a-composer-dependency-to-git-for-editing)
-- [Request handlers vs Controllers](https://jenssegers.com/85/goodbye-controllers-hello-request-handlers)
-
-## Doctrine
-
-- [Doctrine best practices slides](https://ocramius.github.io/doctrine-best-practices) and [video](https://vimeo.com/134178140)
-
-## DDD
-
-- [A wave of command buses](https://matthiasnoback.nl/2015/01/a-wave-of-command-buses/)
-- [Model & Service Layers](https://www.youtube.com/watch?v=ajhqScWECMo)
+- [MySQL SQL injection cheat sheet](http://pentestmonkey.net/cheat-sheet/sql-injection/mysql-sql-injection-cheat-sheet)
 
 ## Security
 
