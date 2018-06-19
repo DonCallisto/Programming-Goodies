@@ -42,10 +42,6 @@
 - [Keep and eye on the churn](https://matthiasnoback.nl/2018/01/churn-legacy-code/) - [Breaking up the Behemoth](https://www.sandimetz.com/blog/2017/9/13/breaking-up-the-behemoth)
 - [It's all OPCache fault?](https://engineering.facile.it/blog/eng/realpath-cache-is-it-all-php-opcache-s-fault)
 
-## SQL
-
-- [MySQL SQL injection cheat sheet](http://pentestmonkey.net/cheat-sheet/sql-injection/mysql-sql-injection-cheat-sheet)
-
 ## Security
 
 - [Common checklist - Not strictly related to PHP but good for webapps](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56?mkt_tok=eyJpIjoiTm1VM01HUXlPR1kwWWpaayIsInQiOiJueUZaRGFpbHRzY0xaQ3dOVUZQU3NOMmVFQjZGbVlndmdSb0pITHo4NHRzNGlSb0xpTU9ZcU84Nm55a3BzUVlEaG9BQ0Q3OHlNZXNPQis4bmFEb3hrM25kNjVQdDhaXC9hTnhIY0dHdlBwWHJBbWFMc3JOQTV5WWdLTU91Wm82cEQifQ%3D%3D)
@@ -56,6 +52,10 @@
 
 - [Add global option to command](https://matthiasnoback.nl/2013/11/symfony2-add-a-global-option-to-console-commands-and-generate-pid-file/)
 - [Idempotent commands](https://leftontheweb.com/blog/2017/05/30/The-idempotent-command/?mkt_tok=eyJpIjoiTm1VM01HUXlPR1kwWWpaayIsInQiOiJueUZaRGFpbHRzY0xaQ3dOVUZQU3NOMmVFQjZGbVlndmdSb0pITHo4NHRzNGlSb0xpTU9ZcU84Nm55a3BzUVlEaG9BQ0Q3OHlNZXNPQis4bmFEb3hrM25kNjVQdDhaXC9hTnhIY0dHdlBwWHJBbWFMc3JOQTV5WWdLTU91Wm82cEQifQ%3D%3D)
+
+## SQL
+
+- [MySQL SQL injection cheat sheet](http://pentestmonkey.net/cheat-sheet/sql-injection/mysql-sql-injection-cheat-sheet)
 
 ## Testing
 
