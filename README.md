@@ -83,3 +83,7 @@
 ## Queues and Parallelism
 
 - [Partitioning for concurrency](https://blog.frankdejonge.nl/parallelise-synchronous-business-processes)
+
+### General
+
+- [Test driving repositories](https://matthiasnoback.nl/2018/09/test-driving-repository-classes-part-1-queries/) - (https://matthiasnoback.nl/2018/10/test-driving-repository-classes-part-2-storing-and-retrieving-entities/)
