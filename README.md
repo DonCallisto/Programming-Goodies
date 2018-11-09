@@ -55,6 +55,7 @@
 
 - [Add global option to command](https://matthiasnoback.nl/2013/11/symfony2-add-a-global-option-to-console-commands-and-generate-pid-file/)
 - [Idempotent commands](https://leftontheweb.com/blog/2017/05/30/The-idempotent-command/?mkt_tok=eyJpIjoiTm1VM01HUXlPR1kwWWpaayIsInQiOiJueUZaRGFpbHRzY0xaQ3dOVUZQU3NOMmVFQjZGbVlndmdSb0pITHo4NHRzNGlSb0xpTU9ZcU84Nm55a3BzUVlEaG9BQ0Q3OHlNZXNPQis4bmFEb3hrM25kNjVQdDhaXC9hTnhIY0dHdlBwWHJBbWFMc3JOQTV5WWdLTU91Wm82cEQifQ%3D%3D)
+- [Diving into Symfony's DependencyInjection](https://medium.com/manomano-tech/diving-into-symfonys-dependencyinjection-part-1-first-steps-with-the-container-2fad0593c052)
 
 ## SQL
 
