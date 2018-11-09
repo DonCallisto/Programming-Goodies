@@ -88,4 +88,4 @@
 
 ### General
 
-- [Test driving repositories](https://matthiasnoback.nl/2018/09/test-driving-repository-classes-part-1-queries/) - (https://matthiasnoback.nl/2018/10/test-driving-repository-classes-part-2-storing-and-retrieving-entities/)
+- [Test driving repositories](https://matthiasnoback.nl/2018/09/test-driving-repository-classes-part-1-queries/) - [part 2](https://matthiasnoback.nl/2018/10/test-driving-repository-classes-part-2-storing-and-retrieving-entities/)
