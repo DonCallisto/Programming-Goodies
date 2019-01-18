@@ -42,6 +42,7 @@
 - [Keep and eye on the churn](https://matthiasnoback.nl/2018/01/churn-legacy-code/) - [Breaking up the Behemoth](https://www.sandimetz.com/blog/2017/9/13/breaking-up-the-behemoth)
 - [It's all OPCache fault?](https://engineering.facile.it/blog/eng/realpath-cache-is-it-all-php-opcache-s-fault)
 - [Microservices definition](https://martinfowler.com/articles/microservices.html)
+- [When and why use final](https://ocramius.github.io/blog/when-to-declare-classes-final/)
 
 ## Security
 
