@@ -47,6 +47,7 @@
 ## GIT
 
 - [How monolithic repository in oss saved my laziness](https://www.tomasvotruba.cz/blog/2017/01/31/how-monolithic-repository-in-open-source-saved-my-laziness/)
+- [Monorepo vs ManyRepo - Fabien Potencier](https://www.youtube.com/watch?v=4w3-f6Xhvu8)
 
 ## Security
 
