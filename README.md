@@ -1,4 +1,4 @@
-# PHPGoodies
+# Programming Goodies
 
 ## API
 
