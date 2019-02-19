@@ -77,6 +77,7 @@
 
 - [Unit Testing by Example - PHP UK 2017](https://www.youtube.com/watch?v=ESl-ncXA4G0&list=PL_aPVo2HeGF-_djRi_UVWWLdkVpYQFnFm&index=14)
 - [Unit Testing - The bigger picture](https://gundars.me/php/unit-testing-php-big-picture/?mkt_tok=eyJpIjoiTm1VM01HUXlPR1kwWWpaayIsInQiOiJueUZaRGFpbHRzY0xaQ3dOVUZQU3NOMmVFQjZGbVlndmdSb0pITHo4NHRzNGlSb0xpTU9ZcU84Nm55a3BzUVlEaG9BQ0Q3OHlNZXNPQis4bmFEb3hrOFwvZXFBMlR4YWE0OXhSSmpNXC9sMEV4cVRnS1pEQ1BFQVhrRHZ0b3c1TTBVIn0%3D)
+- [TDD - Essential And Relevant](https://8thlight.com/blog/thomas-countz/2019/02/19/essential-and-relevant-unit-tests.html)
 
 ### BDD
 
