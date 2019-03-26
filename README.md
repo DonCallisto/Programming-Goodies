@@ -5,6 +5,10 @@
 - [5 golden rules](https://www.toptal.com/api-developers/5-golden-rules-for-designing-a-great-web-api)
 - [JWT with API Platform](https://emirkarsiyakali.com/implementing-jwt-authentication-to-your-api-platform-application-885f014d3358)
 
+## AWS
+
+- [AWS Lambda custom runtime for PHP](https://aws.amazon.com/it/blogs/apn/aws-lambda-custom-runtime-for-php-a-practical-example/)
+
 ## Composer
 
 - [Stability flags](https://igor.io/2013/02/07/composer-stability-flags.html)
