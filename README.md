@@ -21,6 +21,8 @@
 ## Doctrine
 
 - [Doctrine best practices slides](https://ocramius.github.io/doctrine-best-practices) and [video](https://vimeo.com/134178140)
+- [Fetch join hydration](https://stackoverflow.com/questions/13603054/doctrine-fetch-join)
+- [Hydration optimization](https://ocramius.github.io/blog/doctrine-orm-optimization-hydration/)
 
 ## DDD
 
