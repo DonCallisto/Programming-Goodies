@@ -103,10 +103,10 @@
 - [Mocking at architectural boundaries](https://matthiasnoback.nl/2018/02/mocking-at-architectural-boundaries-persistence-and-time/)
 - [That's not yours!](https://8thlight.com/blog/eric-smith/2011/10/27/thats-not-yours.html)
 
-## Queues and Parallelism
-
-- [Partitioning for concurrency](https://blog.frankdejonge.nl/parallelise-synchronous-business-processes)
-
 ### General
 
 - Test driving repositories [part 1](https://matthiasnoback.nl/2018/09/test-driving-repository-classes-part-1-queries/) - [part 2](https://matthiasnoback.nl/2018/10/test-driving-repository-classes-part-2-storing-and-retrieving-entities/)
+
+## Queues and Parallelism
+
+- [Partitioning for concurrency](https://blog.frankdejonge.nl/parallelise-synchronous-business-processes)
