@@ -9,6 +9,9 @@
 
 - [AWS Lambda custom runtime for PHP](https://aws.amazon.com/it/blogs/apn/aws-lambda-custom-runtime-for-php-a-practical-example/)
 
+## Code quality tools
+- [PHP Insights](https://github.com/nunomaduro/phpinsights)
+
 ## Composer
 
 - [Stability flags](https://igor.io/2013/02/07/composer-stability-flags.html)
@@ -60,8 +63,9 @@
 - https://github.com/shopsys/monorepo-tools
 - https://github.com/symplify/monorepobuilder
 
-## Code quality tools
-- [PHP Insights](https://github.com/nunomaduro/phpinsights)
+## Queues and Parallelism
+
+- [Partitioning for concurrency](https://blog.frankdejonge.nl/parallelise-synchronous-business-processes)
 
 ## Security
 
@@ -106,7 +110,3 @@
 ### General
 
 - Test driving repositories [part 1](https://matthiasnoback.nl/2018/09/test-driving-repository-classes-part-1-queries/) - [part 2](https://matthiasnoback.nl/2018/10/test-driving-repository-classes-part-2-storing-and-retrieving-entities/)
-
-## Queues and Parallelism
-
-- [Partitioning for concurrency](https://blog.frankdejonge.nl/parallelise-synchronous-business-processes)
