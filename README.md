@@ -81,6 +81,7 @@
 - [Idempotent commands](https://leftontheweb.com/blog/2017/05/30/The-idempotent-command/?mkt_tok=eyJpIjoiTm1VM01HUXlPR1kwWWpaayIsInQiOiJueUZaRGFpbHRzY0xaQ3dOVUZQU3NOMmVFQjZGbVlndmdSb0pITHo4NHRzNGlSb0xpTU9ZcU84Nm55a3BzUVlEaG9BQ0Q3OHlNZXNPQis4bmFEb3hrM25kNjVQdDhaXC9hTnhIY0dHdlBwWHJBbWFMc3JOQTV5WWdLTU91Wm82cEQifQ%3D%3D)
 - [Diving into Symfony's DependencyInjection](https://medium.com/manomano-tech/diving-into-symfonys-dependencyinjection-part-1-first-steps-with-the-container-2fad0593c052)
 - [Symfony messenger loves systemd](https://jolicode.com/blog/symfony-messenger-systemd?mkt_tok=NDI2LVFWRC0xMTQAAAGCPuhT_TIRynbX9aM-tlSnXIppqzraIITA3Tjpu87ASR-c8J6DIfAyXXCicramZHFVTO-ZIXVm5OgJBjRdggKtdqTFQK7Vc6IvzAPHPssDF-qCOQ)
+- [Symfony and microservices - Part1](https://www.kode-krunch.com/2021/11/php-symfony-modular-architecture-demo-part-1.html) - [Part 2](https://www.kode-krunch.com/2021/12/php-symfony-modular-architecture-demo-part-2.html)
 
 ## SQL
 
