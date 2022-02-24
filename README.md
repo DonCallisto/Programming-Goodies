@@ -21,6 +21,9 @@
 - [Converting composer dependency to git for editing](https://akrabat.com/converting-a-composer-dependency-to-git-for-editing)
 - [Request handlers vs Controllers](https://jenssegers.com/85/goodbye-controllers-hello-request-handlers)
 
+## Design Patterns
+- [Chain of responsibility in PHP](https://orangesoft.co/blog/chain-of-responsibility-design-pattern-in-php?mkt_tok=NDI2LVFWRC0xMTQAAAGCPuhT_HRp1w7gma-4uCDxh8JQCib1nI0obIc7L3mb6utQqgGSJDenOvgS-9WDc1p6doYdDDJq2wbo0tb5ZSn7R3vWC_z2wKDu5ApYXKsSieeNQw)
+
 ## Doctrine
 
 - [Doctrine best practices slides](https://ocramius.github.io/doctrine-best-practices) and [video](https://vimeo.com/134178140)
