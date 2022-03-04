@@ -56,6 +56,7 @@
 - [Microservices definition](https://martinfowler.com/articles/microservices.html)
 - [When and why use final](https://ocramius.github.io/blog/when-to-declare-classes-final/)
 - [PHP Begginer Guide](https://phpapprentice.com/)
+- [Eventual consistency UX nightmare](https://codeopinion.com/eventual-consistency-is-a-ux-nightmare/)
 
 ## GIT
 
