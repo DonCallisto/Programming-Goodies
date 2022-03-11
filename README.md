@@ -57,6 +57,9 @@
 - [When and why use final](https://ocramius.github.io/blog/when-to-declare-classes-final/)
 - [PHP Begginer Guide](https://phpapprentice.com/)
 - [Eventual consistency UX nightmare](https://codeopinion.com/eventual-consistency-is-a-ux-nightmare/)
+- Final by default 
+  - [1 - Pivetta](https://ocramius.github.io/blog/when-to-declare-classes-final/)
+  - [2 - Noback](https://matthiasnoback.nl/2018/09/final-classes-by-default-why/)
 
 ## GIT
 
