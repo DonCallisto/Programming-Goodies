@@ -34,6 +34,7 @@
 
 - [A wave of command buses](https://matthiasnoback.nl/2015/01/a-wave-of-command-buses/)
 - [Model & Service Layers](https://www.youtube.com/watch?v=ajhqScWECMo)
+- [All our aggregates are wrong](https://www.youtube.com/watch?v=KkzvQSuYd5I)
 
 ## General
 
