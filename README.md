@@ -94,6 +94,7 @@
 ## SQL
 
 - [MySQL SQL injection cheat sheet](http://pentestmonkey.net/cheat-sheet/sql-injection/mysql-sql-injection-cheat-sheet)
+- [Pagination with deferred join](https://aaronfrancis.com/2022/efficient-pagination-using-deferred-joins)
 
 ## Testing
 
