@@ -11,6 +11,7 @@
 
 ## Code quality tools
 - [PHP Insights](https://github.com/nunomaduro/phpinsights)
+- [PHPStan TODO-by](https://github.com/staabm/phpstan-todo-by)
 
 ## Composer
 
