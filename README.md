@@ -1,5 +1,9 @@
 # Programming Goodies
 
+## AI
+
+- [The hardest part of building software is not coding](https://stackoverflow.blog/2023/12/29/the-hardest-part-of-building-software-is-not-coding-its-requirements/?utm_campaign=the-overflow-newsletter&utm_medium=email&utm_source=iterable)
+
 ## API
 
 - [5 golden rules](https://www.toptal.com/api-developers/5-golden-rules-for-designing-a-great-web-api)
